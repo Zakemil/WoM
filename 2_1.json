@@ -1,0 +1,18 @@
+{
+    "name": "WoM NFT",
+    "image": "https://s.getgems.io/nft/c/63be70a5a0ac9979ac9c104f/28/image.png",
+    "attributes": [
+        {
+            "trait_type": "Материал",
+            "value": "Дерево"
+        },
+        {
+            "trait_type": "Партия",
+            "value": "2"
+        }
+    ],
+    "content_url": "https://github.com/Zakemil/WoM/raw/main/2_1.mp4",
+    "description": "WoM NFT - это пропуск в партнерскую программу комьюнити Word of Mouth\nNFT отличаются по:\n  ⁃ Дизайну\n  ⁃ Цене\n  ⁃ Уровням вознаграждения\n  ⁃ Серии выпуска\n  ⁃ А также другим атрибутам.\n\nВ зависимости от типа NFT, вы получаете статус, который определяет ваше бонусное вознаграждение в компании.\n\nДеревянная WoM NFT\nПервая ступень развития в нашем комьюнити.\n\nВладение WoM NFT - самый простой способ получения токена FINST\n\nНачисляет 20 FINST/день",
+    "marketplace": "getgems.io",
+    "content_type": "video/quicktime"
+}

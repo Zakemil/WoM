@@ -1,0 +1,18 @@
+{
+    "name": "WoM NFT",
+    "image": "https://s.getgems.io/nft/c/63be70a5a0ac9979ac9c104f/9/image.png",
+    "attributes": [
+        {
+            "trait_type": "Материал",
+            "value": "Золото"
+        },
+        {
+            "trait_type": "Партия",
+            "value": "2"
+        }
+    ],
+    "content_url": "https://github.com/Zakemil/WoM/raw/main/2_4.mp4",
+    "description": "WoM NFT - это пропуск в партнерскую программу комьюнити Word of Mouth\nNFT отличаются по:\n  ⁃ Дизайну\n  ⁃ Цене\n  ⁃ Уровням вознаграждения\n  ⁃ Серии выпуска\n  ⁃ А также другим атрибутам.\n\nВ зависимости от типа NFT, вы получаете статус, который определяет ваше бонусное вознаграждение в компании.\n\nЗолотая WoM NFT\nЧетвертая ступень развития в нашем комьюнити.\n\nВладение WoM NFT - самый простой способ получения токена FINST\n\nНачисляет 120 FINST/день",
+    "marketplace": "getgems.io",
+    "content_type": "video/quicktime"
+}
